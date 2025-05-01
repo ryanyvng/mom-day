@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mom-day/static/css/main.e42fde23.css",
-    "main.js": "/mom-day/static/js/main.0a7c5d85.js",
+    "main.js": "/mom-day/static/js/main.da901566.js",
     "static/js/453.4cc0f925.chunk.js": "/mom-day/static/js/453.4cc0f925.chunk.js",
     "index.html": "/mom-day/index.html",
     "main.e42fde23.css.map": "/mom-day/static/css/main.e42fde23.css.map",
-    "main.0a7c5d85.js.map": "/mom-day/static/js/main.0a7c5d85.js.map",
+    "main.da901566.js.map": "/mom-day/static/js/main.da901566.js.map",
     "453.4cc0f925.chunk.js.map": "/mom-day/static/js/453.4cc0f925.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e42fde23.css",
-    "static/js/main.0a7c5d85.js"
+    "static/js/main.da901566.js"
   ]
 }
